@@ -19,3 +19,8 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/customer-booking-analysis.git
+
+2. install the Dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
